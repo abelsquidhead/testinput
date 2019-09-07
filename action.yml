@@ -1,6 +1,6 @@
-name: 'Node 12 Template Action'
-description: 'Get started with Node actions'
-author: 'GitHub'
+name: 'testaction'
+description: 'This action takes in an input and echos it'
+author: 'abelsquidhead'
 inputs:
   myInput:
     description: 'Input to use'
