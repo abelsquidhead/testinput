@@ -1,4 +1,4 @@
-name: "PR Checks"
+name: "test input"
 on: [pull_request, push]
 
 jobs:
