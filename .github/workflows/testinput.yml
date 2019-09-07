@@ -8,4 +8,4 @@ jobs:
     - uses: abelsquidhead/testinput@master
       name: "testinput"
       with:
-        myInput: %GITHUB_WORKSPACE%
+        myInput: '%GITHUB_WORKSPACE%'
