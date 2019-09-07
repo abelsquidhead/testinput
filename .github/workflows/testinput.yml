@@ -2,10 +2,10 @@ name: "test input"
 on: [pull_request, push]
 
 jobs:
-  check_pr:
+  testInput:
     runs-on: windows-latest
     steps:
-    - uses: abelsquidhead/testinput@release/v1
+    - uses: abelsquidhead/testinput@master
       name: "testinput"
       with:
         myInput: abc123
