@@ -1,4 +1,4 @@
-name: "check input"
+name: "check int"
 on: [pull_request, push]
 
 jobs:
